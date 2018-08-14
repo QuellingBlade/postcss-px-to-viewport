@@ -1,10 +1,17 @@
-# postcss-px-to-viewport [![NPM version](https://badge.fury.io/js/postcss-px-to-viewport.svg)](http://badge.fury.io/js/postcss-px-to-viewport)
+# postcss-px-to-viewport
+
+> This a fork of [evrone/postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport) with [pr](https://github.com/evrone/postcss-px-to-viewport/pull/9)
 
 A plugin for [PostCSS](https://github.com/ai/postcss) that generates viewport units (vw, vh, vmin, vmax) from pixel units.
 
 ## Usage
 
 If your project involves a fixed width, this script will help to convert pixels into viewport units.
+
+```
+npm install @quellingblade/postcss-px-to-viewport
+```
+
 
 ### Input/Output
 
